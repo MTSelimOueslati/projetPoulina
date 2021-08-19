@@ -1,0 +1,12 @@
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\bin\Debug\netcoreapp3.1\ProjetPoulinaData.deps.json
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\bin\Debug\netcoreapp3.1\ProjetPoulinaData.dll
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.csprojAssemblyReference.cache
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.AssemblyInfoInputs.cache
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.AssemblyInfo.cs
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\bin\Debug\netcoreapp3.1\ProjetPoulinaData.pdb
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\bin\Debug\netcoreapp3.1\ProjetPoulinaDomain.dll
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\bin\Debug\netcoreapp3.1\ProjetPoulinaDomain.pdb
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.csproj.CopyComplete
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.dll
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.pdb
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaData\obj\Debug\netcoreapp3.1\ProjetPoulinaData.csproj.CoreCompileInputs.cache
