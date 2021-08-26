@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jRW8USqOv02fRLTKvyt1RkBAzrO6IQegJgL77tyFAGl6+SscIzF/Z8EdgE5gmaSfYUxZwIMlbCFuOmAN/43vDg==",
+  "dgSpecHash": "X5claHsMcTyP/HDAE4Z1HksDcGFRMP+I03jkiiuqI/74bSy5Vz9WuNBD+FoL54IDL3Ei1NjHCCUNiWimzQXJUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -48,7 +48,7 @@
     "C:\\Users\\taieb\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
-    "C:\\Users\\taieb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\taieb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

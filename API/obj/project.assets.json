@@ -592,7 +592,7 @@
           "build/Swashbuckle.AspNetCore.props": {}
         }
       },
-      "Swashbuckle.AspNetCore.Swagger/6.1.4": {
+      "Swashbuckle.AspNetCore.Swagger/6.1.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.2.3"
@@ -1581,6 +1581,25 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "PrjPoulina.Infra.Ioc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
+          "ProjetPoulinaData": "1.0.0",
+          "ProjetPoulinaDomain": "1.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "6.1.5"
+        },
+        "compile": {
+          "bin/placeholder/PrjPoulina.Infra.Ioc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrjPoulina.Infra.Ioc.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "ProjetPoulinaData/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1588,28 +1607,36 @@
           "Microsoft.EntityFrameworkCore": "5.0.8",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.8",
-          "ProjetPoulinaDomain": "1.0.0"
+          "ProjetPoulinaDomain": "1.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "6.1.5"
         },
         "compile": {
           "bin/placeholder/ProjetPoulinaData.dll": {}
         },
         "runtime": {
           "bin/placeholder/ProjetPoulinaData.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ProjetPoulinaDomain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.8"
+          "Microsoft.EntityFrameworkCore": "5.0.8",
+          "Swashbuckle.AspNetCore.Swagger": "6.1.5"
         },
         "compile": {
           "bin/placeholder/ProjetPoulinaDomain.dll": {}
         },
         "runtime": {
           "bin/placeholder/ProjetPoulinaDomain.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -2578,10 +2605,10 @@
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
-    "Swashbuckle.AspNetCore.Swagger/6.1.4": {
-      "sha512": "5XRKPKXpQRJMdOwHgotSZjWYGKnvresUIKiUOecmDrsiTkRpUd15QJMS/+HKYjjOvWnJthYwhLJG3pABJOHwOg==",
+    "Swashbuckle.AspNetCore.Swagger/6.1.5": {
+      "sha512": "Wp8FlwNCKR/DfxvEkjQdru0l7aUp4/5VLEvejCA8t/SMMcUTP+xw4zvyEjGCBoJ/ETqzQM3y+72iYaEOhBlYOw==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore.swagger/6.1.4",
+      "path": "swashbuckle.aspnetcore.swagger/6.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2594,7 +2621,7 @@
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.pdb",
         "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
-        "swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+        "swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
         "swashbuckle.aspnetcore.swagger.nuspec"
       ]
     },
@@ -5880,6 +5907,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "PrjPoulina.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "path": "../PrjPoulina.Infra.Ioc/PrjPoulina.Infra.Ioc.csproj",
+      "msbuildProject": "../PrjPoulina.Infra.Ioc/PrjPoulina.Infra.Ioc.csproj"
+    },
     "ProjetPoulinaData/1.0.0": {
       "type": "project",
       "path": "../ProjetPoulinaData/ProjetPoulinaData.csproj",
@@ -5903,8 +5935,10 @@
       "Microsoft.Extensions.Http >= 5.0.0",
       "Microsoft.Extensions.Http.Polly >= 5.0.1",
       "Newtonsoft.Json >= 13.0.1",
+      "PrjPoulina.Infra.Ioc >= 1.0.0",
       "ProjetPoulinaData >= 1.0.0",
-      "Swashbuckle.AspNetCore >= 6.1.4"
+      "Swashbuckle.AspNetCore >= 6.1.4",
+      "Swashbuckle.AspNetCore.Swagger >= 6.1.5"
     ]
   },
   "packageFolders": {
@@ -5933,6 +5967,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj": {
+              "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj"
+            },
             "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaData\\ProjetPoulinaData.csproj": {
               "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaData\\ProjetPoulinaData.csproj"
             }
@@ -5993,6 +6030,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.1.4, )"
+          },
+          "Swashbuckle.AspNetCore.Swagger": {
+            "target": "Package",
+            "version": "[6.1.5, )"
           }
         },
         "imports": [

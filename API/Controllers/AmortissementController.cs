@@ -29,7 +29,7 @@ namespace API.Controllers
         }
 
         [HttpGet("getAllAmortissement")]
-        public IEnumerable<AmortissementDTO> Gets()
+        public IEnumerable<AmortissementDTO> Gets() 
         {
             return _mediator.Send(new GetAllGeneric<Amortissement>()).Result.Select(amortissement => _mapper.Map<AmortissementDTO>(amortissement));
         }

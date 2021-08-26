@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j5uSinCuwzjc/M0LD+XqmG1EYTt4s6s1EfDn1GBPKovH4wcIM0a9FI6HoxHuXSIqbn+tSeI4X3K85oCl3HSMqA==",
+  "dgSpecHash": "MX3pE84kbowIaE4dKJXoQFhIkSDOj9x1zEU/YO0AC5PEck8AmomNrItMGcqxDyqas3umODlFlvu2LiedMK8wpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaDomain\\ProjetPoulinaDomain.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,8 @@
     "C:\\Users\\taieb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\taieb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\taieb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\taieb\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"

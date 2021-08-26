@@ -10,5 +10,6 @@ namespace ProjetPoulinaDomain.Models
         public DateTime Date { get; set; }
         public float prixx { get; set; }
         public Guid fk_Speculation { get; set; }
+        public float Delai { get; set; }
     }
 }

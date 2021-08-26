@@ -68,9 +68,6 @@ C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\API.pdb
 C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
 C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\Polly.dll
 C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
-C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
-C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
@@ -78,3 +75,8 @@ C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\ProjetPoul
 C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\ProjetPoulinaDomain.dll
 C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\ProjetPoulinaData.pdb
 C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\ProjetPoulinaDomain.pdb
+C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\taieb\source\repos\ProjetPoulina\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.dll
+C:\Users\taieb\source\repos\ProjetPoulina\API\bin\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.pdb

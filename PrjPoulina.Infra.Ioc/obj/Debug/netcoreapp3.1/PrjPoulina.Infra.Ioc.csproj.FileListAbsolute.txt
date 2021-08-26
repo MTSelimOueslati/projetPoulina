@@ -8,7 +8,7 @@ C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\bin\Debug\netcore
 C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\bin\Debug\netcoreapp3.1\ProjetPoulinaDomain.dll
 C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\bin\Debug\netcoreapp3.1\ProjetPoulinaData.pdb
 C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\bin\Debug\netcoreapp3.1\ProjetPoulinaDomain.pdb
-C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\obj\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.csproj.CoreCompileInputs.cache
 C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\obj\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.csproj.CopyComplete
 C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\obj\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.dll
 C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\obj\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.pdb
+C:\Users\taieb\source\repos\ProjetPoulina\PrjPoulina.Infra.Ioc\obj\Debug\netcoreapp3.1\PrjPoulina.Infra.Ioc.csproj.CoreCompileInputs.cache

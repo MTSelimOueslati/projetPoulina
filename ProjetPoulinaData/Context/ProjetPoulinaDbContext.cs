@@ -94,8 +94,14 @@ namespace ProjetPoulinaData.Context
                                                .WithMany(sp => sp.speculation_centre)
                                                .HasForeignKey(bc => bc.fk_speculation);
 
+            // => Spéculation        
+            modelBuilder.Entity<Stock>()
+                                               .HasOne(p => p.speculation_centre)
+                                               .WithMany(sp => sp.ListeStock)
+                                               .HasForeignKey(bc => bc.fk_speculation_centre);
 
-           
+
+
             #endregion
         }
         #endregion

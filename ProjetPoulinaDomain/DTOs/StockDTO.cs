@@ -11,5 +11,7 @@ namespace ProjetPoulinaDomain.Models
         public DateTime DateDu { get; set; }
         public DateTime DateAu { get; set; }
         public Guid fk_TraitementStock { get; set; }
+        public Guid fk_centre { get; set; }
+        public Guid fk_speculation { get; set; }
     }
 }

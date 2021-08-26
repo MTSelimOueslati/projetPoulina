@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProjetPoulinaData.Context;
 
 namespace ProjetPoulinaData.Migrations
 {
     [DbContext(typeof(ProjetPoulinaDbContext))]
-    partial class ProjetPoulinaDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210826151415_deuxieme_migration")]
+    partial class deuxieme_migration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

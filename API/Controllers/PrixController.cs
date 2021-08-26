@@ -6,6 +6,7 @@ using AutoMapper;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using ProjetPoulinaDomain.Command;
 using ProjetPoulinaDomain.Models;
 using ProjetPoulinaDomain.Querie;
@@ -30,7 +31,7 @@ namespace API.Controllers
         [HttpGet("getAllPrix")]
         public IEnumerable<PrixDTO> Gets()
         {
-            return _mediator.Send(new GetAllGeneric<Prix>()).Result.Select(prix => _mapper.Map<PrixDTO>(oeuf));
+            return _mediator.Send(new GetAllGeneric<Prix>(condition: null, includes: i => i.Include(m => m.speculation))).Result.Select(prix => _mapper.Map<PrixDTO>(prix));
         }
 
         [HttpGet("getPrixById")]

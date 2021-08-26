@@ -11,6 +11,7 @@ namespace ProjetPoulinaDomain.Models
         public DateTime DateAu { get; set; }
         public float Prix { get; set; }
         public float TotalAmortissement { get; set; }
+     
         public ICollection<Centre> centre { get; set; }
     }
 }

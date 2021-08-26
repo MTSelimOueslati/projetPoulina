@@ -27,6 +27,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj"
+              },
               "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaData\\ProjetPoulinaData.csproj": {
                 "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaData\\ProjetPoulinaData.csproj"
               }
@@ -87,6 +90,82 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj",
+        "projectName": "PrjPoulina.Infra.Ioc",
+        "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\PrjPoulina.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\taieb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\PrjPoulina.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taieb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaData\\ProjetPoulinaData.csproj": {
+                "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaData\\ProjetPoulinaData.csproj"
+              },
+              "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaDomain\\ProjetPoulinaDomain.csproj": {
+                "projectPath": "C:\\Users\\taieb\\source\\repos\\ProjetPoulina\\ProjetPoulinaDomain\\ProjetPoulinaDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.5, )"
             }
           },
           "imports": [
@@ -160,6 +239,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.8, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.5, )"
             }
           },
           "imports": [
@@ -173,6 +256,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -222,6 +308,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.5, )"
             }
           },
           "imports": [
@@ -235,6 +325,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

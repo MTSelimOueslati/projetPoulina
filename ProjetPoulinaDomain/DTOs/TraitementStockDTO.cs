@@ -11,6 +11,7 @@ namespace ProjetPoulinaDomain.Models
         public float Amortissement { get; set; }
         public float ValeurResiduel { get; set; }
         public int EffectifRestant { get; set; }
+        public float ValeurDuStock { get; set; }
         public StockDTO stock { get; set; }
     }
 }

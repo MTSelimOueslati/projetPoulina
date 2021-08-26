@@ -11,5 +11,7 @@ namespace ProjetPoulinaDomain.Models
         public Guid fk_speculation { get; set; }
         public Centre centre { get; set; }
         public Speculation speculation { get; set; }
+        
+        public ICollection<Stock> ListeStock { get; set; }
     }
 }

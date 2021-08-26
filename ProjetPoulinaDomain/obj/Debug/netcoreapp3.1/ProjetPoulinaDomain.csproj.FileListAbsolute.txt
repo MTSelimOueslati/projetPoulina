@@ -4,6 +4,6 @@ C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\bin\Debug\netcorea
 C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.csprojAssemblyReference.cache
 C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.AssemblyInfoInputs.cache
 C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.AssemblyInfo.cs
-C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.csproj.CoreCompileInputs.cache
 C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.dll
 C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.pdb
+C:\Users\taieb\source\repos\ProjetPoulina\ProjetPoulinaDomain\obj\Debug\netcoreapp3.1\ProjetPoulinaDomain.csproj.CoreCompileInputs.cache
